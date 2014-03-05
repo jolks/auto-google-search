@@ -1,4 +1,4 @@
-auto-google-search
-==================
+Automated Google Search
+=======================
 
-Automate Google search
+Automate Google search...
